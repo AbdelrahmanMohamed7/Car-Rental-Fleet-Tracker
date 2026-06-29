@@ -1,0 +1,4 @@
+login & username is our name and tp number
+check in AdminSignIn class
+
+The data will saved into the text file only if the return or quit button is pressed
